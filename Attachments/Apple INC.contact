@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2018-05-30T18:52:38Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="85d5197f-491d-4755-8666-f825392771b7"><c:Value>e6adce66-c899-4dee-b9d5-23d5c4cc3724</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="42e7e205-9e13-4262-8293-c141cb061a19"><c:FormattedName>Administrator APPLE INC</c:FormattedName><c:FamilyName>INC</c:FamilyName><c:MiddleName>APPLE</c:MiddleName><c:GivenName>Administrator</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="63757d71-d388-488f-a6e6-f5ba59bfea11"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>

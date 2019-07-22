@@ -1,0 +1,109 @@
+********************************************************
+/**
+ * @Author: Eka Syahwan
+ * @Date:   2018-06-26 03:57:16
+ * @Last Modified by: Eka Syahwan
+**/
+********************************************************
+
+
+********************************************************
+             ** BUG FIX - 02.JUL.18 ** 
+********************************************************
+
+- Perbaikan pada pengiriman email yang semula (CC) menjadi (BCC) 
+- Penambahan fitur color : di config.php silahkan hidup atau matikan fitur ini. 
+- Perbaikan pada metode BCC dan One To One.
+- Perbaikan alias {email} yang tidak bisa digunakan di one to one sekarang bisa anda gunakan.
+- Penambahan Install centos , ubuntu & windows.
+- Penambahan support pada linux.
+
+********************************************************
+             ** BUG FIX - 04.JUL.18 ** 
+********************************************************
+
+- Perbaikan pada {email} yang tidak terbaca pada metode pengiriman 2 (one to one).
+- Perbaikan Attachment.
+- Perbaikan bug metode yang hanya terbaca BCC.
+- Penambahan fitur manipulasi teks subject (homograph).
+- Penambahan fitur manipulasi teks fromname (homograph).
+- Penambahan fitur cek update.
+
+********************************************************
+             ** BUG FIX - 07.JUL.18 ** 
+********************************************************
+
+- Penambahan fitur pengiriman melaui CC (Total ada 3 metode pengiriman).
+- Perbaikan pada manipulasi subject dan from email.
+- Penambahan fitur auto generate header by sendinbox.
+- Penambahan fitur debug.
+
+********************************************************
+             ** BUG FIX - 10.JUL.18 ** 
+********************************************************
+
+- Penamabahan fitur TAG {domainsmtp} untuk from_email
+
+********************************************************
+             ** BUG FIX - 13.JUL.18 ** 
+********************************************************
+
+- Penambahan fitur TAG ( {numrandom,20,1} , {textrandom,20,1} , {textnumrandom,20,1}) , kamu bisa membuat text menjadi kecil (low) dan besar (up).
+dengan format : {numrandom,20,1,low} , {textrandom,20,1,low} , {textnumrandom,20,1,up}
+- Penambahan fitur TAG {device} untuk randome device. 
+
+
+********************************************************
+             ** BUG FIX - 15.JUL.18 ** 
+********************************************************
+
+- Perbaikan pada metode (Add address).
+- Penambahan fitur reaply (edit di config.php) (http://prntscr.com/k6l8fd).
+- Penambahan fitur random fromname & fromemail.
+
+
+********************************************************
+             ** BUG FIX - 16.JUL.18 ** 
+********************************************************
+
+- Penambahan report error (smtp) atau kesalahan config files . jika sendinbox error kalian bisa cek di folder Result/sendinbox-error.txt.
+- Penambahan dan perbaikan pada fitur reaply menjadi satu (manipulasi reaply)
+- Penambahan informasi config info sender.
+- Perubahan random fromname & email dijadikan satu dengan random letter
+- Penambahan fitur info_header
+- Penambahan fitur ipsender_trusted
+
+********************************************************
+             ** BUG FIX - 18.JUL.18 ** 
+********************************************************
+
+- Membuat shortlink secara automatis. (gunakan hastag : {shortlink} di letter)
+- Perbaikan pada 'manipulation_reaply'
+
+********************************************************
+             ** BUG FIX - 26.JUL.18 ** 
+********************************************************
+
+- Pembaruan pada PHPMAILER.
+
+********************************************************
+             ** BUG FIX - 28.JUL.18 ** 
+********************************************************
+
+- Pembaruan pada PHPMAILER.
+- Perbaikan respons pengiriman (linux).
+
+********************************************************
+             ** BUG FIX - 12.AGT.18 ** 
+********************************************************
+
+- Pembaruan pada PHPMAILER.
+- Penambahan respons result untuk lebih teratur lagi.
+- Linux-setup UPDATE.
+
+
+
+----------------------------------------------------------------
+Support : https://github.com/radenvodka/Sendinbox-/issues
+BUY     : https://bmarket.or.id
+-----------------------------------------------------------------
